@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imgShot</string>
+    <string name="image_desc">촬영된 이미지</string>
+</resources>
